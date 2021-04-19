@@ -92,3 +92,25 @@ diff sample:
 
 <p style="background-color:lemonchiffon; color: red; border-radius:0px 10px 0px 10px">　Tip：<br>　重要の文言、角丸カスタマイズできる。</p>
 
+
+
+### 折り畳み
+
+```
+<details><summary>クリックして詳細を見る</summary>
+<pre>
+aaa
+bbb
+ccc
+</pre>
+</details>
+```
+
+<details><summary>クリックして詳細を見る</summary>
+<pre>
+ aaa
+ bbb
+ ccc
+</pre>
+</details>
+

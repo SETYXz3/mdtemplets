@@ -10,6 +10,8 @@
 ##### 見出し5
 ```
 
+
+
 ### カスタムフォント
 
 <span style="background-color:hotpink; border-radius:5px">　角丸背景文字　</span>
@@ -89,4 +91,26 @@ diff sample:
 <p style="background-color:deepskyblue; color: black; border-radius:10px 0px 10px 0px">　Tip：<br>　Tipの文言、角丸カスタマイズできる。</p>
 
 <p style="background-color:lemonchiffon; color: red; border-radius:0px 10px 0px 10px">　Tip：<br>　重要の文言、角丸カスタマイズできる。</p>
+
+
+
+### 折り畳み
+
+```
+<details><summary>クリックして詳細を見る</summary>
+<pre>
+aaa
+bbb
+ccc
+</pre>
+</details>
+```
+
+<details><summary>クリックして詳細を見る</summary>
+<pre>
+ aaa
+ bbb
+ ccc
+</pre>
+</details>
 
